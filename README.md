@@ -1,3 +1,10 @@
+# Minimal Startup Landing Page
+Just black and minimal colours!
+<img width="1410" alt="Screenshot 2022-01-13 at 9 21 39 AM" src="https://user-images.githubusercontent.com/40330352/149263015-3ec06b20-6bfc-4d26-a9ae-778d2342f1c3.png">
+<img width="1414" alt="Screenshot 2022-01-13 at 9 22 24 AM" src="https://user-images.githubusercontent.com/40330352/149263025-ae7f4933-91f3-4c0d-a5db-82e22be95228.png">
+
+
+
 ### NOTE: It is free to use this minimal startup portfolio website. However, it is highly suggested to edit Data.js for entering your details instead of messing with the components (unless you know what you are doing)
 ## Getting Started
 

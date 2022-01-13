@@ -1,4 +1,4 @@
-# NOTE: It is free and open source to use this minimal startup portfolio website. However, it is highly suggested to edit Data.js for entering your details instead of messing with the components (unless you know what you are doing)
+### NOTE: It is free to use this minimal startup portfolio website. However, it is highly suggested to edit Data.js for entering your details instead of messing with the components (unless you know what you are doing)
 ## Getting Started
 
 First, run the development server:
